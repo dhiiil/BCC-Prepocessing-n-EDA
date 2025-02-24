@@ -1,4 +1,4 @@
-# 🐴 Horse Survival Prediction - Exploratory Data Analysis 📊
+# 🐴 Exploratory Data Analysis & Simple Preprocessing 📊
 
 Welcome to the **Horse Survival Prediction** project! 🚀 This repository provides an in-depth Exploratory Data Analysis (EDA) of the **Horse Survival Dataset**, which aims to predict whether a horse will survive based on its medical conditions. The analysis includes data preprocessing, statistical insights, and visualizations to uncover important patterns in the dataset. 🔍📈
 
